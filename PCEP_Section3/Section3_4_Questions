@@ -1,0 +1,208 @@
+# Multi-Choice, True, False Questions
+
+---
+
+1. **What is the output of the following code?**
+   ```python
+   my_string = "Python"
+   print(my_string[1:4])
+   ```
+   - A. `Pyt`
+   - B. `yth`
+   - C. `ytho`
+   - D. `ytho`
+   - **Answer**: B
+
+---
+
+2. **Which of the following methods returns the length of a string?**
+   - A. `.size()`
+   - B. `.length()`
+   - C. `len()`
+   - D. `.count()`
+   - **Answer**: C
+
+---
+
+3. **True or False: Strings in Python are mutable.**
+   - A. True
+   - B. False
+   - **Answer**: B
+
+---
+
+4. **What will the following code print?**
+   ```python
+   string = "Hello, World!"
+   print(string.lower())
+   ```
+   - A. `HELLO, WORLD!`
+   - B. `Hello, World!`
+   - C. `hello, world!`
+   - D. `Hello World`
+   - **Answer**: C
+
+---
+
+5. **Which escape character is used to include a single quote in a string?**
+   - A. `"`
+   - B. `\'`
+   - C. `\\`
+   - D. `\n`
+   - **Answer**: B
+
+---
+
+6. **What will the output of the following code be?**
+   ```python
+   print("It's a nice day.")
+   ```
+   - A. `It's a nice day.`
+   - B. `Its a nice day.`
+   - C. `Error`
+   - D. `None`
+   - **Answer**: A
+
+---
+
+7. **Which of the following correctly creates a multi-line string?**
+   - A. `multi_line_string = "Line 1\nLine 2"`
+   - B. `multi_line_string = '''Line 1, Line 2'''`
+   - C. `multi_line_string = "Line 1, Line 2"`
+   - D. `multi_line_string = Line 1, Line 2`
+   - **Answer**: B
+
+---
+
+8. **What is the output of `print("Hello".replace("o", "a"))`?**
+   - A. `Hello`
+   - B. `Hella`
+   - C. `Helo`
+   - D. `Error`
+   - **Answer**: B
+
+---
+
+9. **True or False: You can use double quotes to create a string that contains single quotes.**
+   - A. True
+   - B. False
+   - **Answer**: A
+
+---
+
+10. **What will the following code print?**
+    ```python
+    my_string = "  Hello  "
+    print(my_string.strip())
+    ```
+    - A. `Hello`
+    - B. `  Hello`
+    - C. `Hello  `
+    - D. `Error`
+    - **Answer**: A
+
+---
+
+11. **What is the output of the following code?**
+    ```python
+    text = "Python is great!"
+    print(text[0:6])
+    ```
+    - A. `Python`
+    - B. `Python `
+    - C. `Py`
+    - D. `Error`
+    - **Answer**: A
+
+---
+
+12. **What will the output be for this code?**
+    ```python
+    my_string = "Hello, World!"
+    print(my_string[7:])
+    ```
+    - A. `World!`
+    - B. `, World!`
+    - C. `Hello`
+    - D. `Hello,`
+    - **Answer**: A
+
+---
+
+13. **Which method would you use to convert a string to uppercase?**
+    - A. `.upper()`
+    - B. `.capitalize()`
+    - C. `.increase()`
+    - D. `.change()`
+    - **Answer**: A
+
+---
+
+14. **True or False: You cannot concatenate strings using the `+` operator.**
+    - A. True
+    - B. False
+    - **Answer**: B
+
+---
+
+15. **What does the expression `"Hello" * 3` return?**
+    - A. `HelloHelloHello`
+    - B. `Hello 3`
+    - C. `3Hello`
+    - D. `Hello`
+    - **Answer**: A
+
+---
+
+16. **What is the result of the following code?**
+    ```python
+    my_string = "Python"
+    my_string[0] = 'J'
+    ```
+    - A. `Jython`
+    - B. `TypeError`
+    - C. `Python`
+    - D. `None`
+    - **Answer**
+
+: B
+
+---
+
+17. **Which of the following strings is a valid multi-line string?**
+    - A. `'''This is line 1. This is line 2.''''`
+    - B. `"""This is line 1. This is line 2."""
+    - C. `"This is line 1.\nThis is line 2."`
+    - D. `""This is line 1." "This is line 2."`
+    - **Answer**: B
+
+---
+
+18. **What does the method `.find('o')` return if used on the string "Hello, World!"?**
+    - A. `4`
+    - B. `-1`
+    - C. `Error`
+    - D. `5`
+    - **Answer**: A
+
+---
+
+19. **True or False: You can include a newline character in a string using `\n`.**
+    - A. True
+    - B. False
+    - **Answer**: A
+
+---
+
+20. **What will the output of `print("First line.\nSecond line.")` be?**
+    - A. `First line.Second line.`
+    - B. `First line.\nSecond line.`
+    - C. 
+    ```
+    First line.
+    Second line.
+    ```
+    - D. `Error`
+    - **Answer**: C
+
+---
