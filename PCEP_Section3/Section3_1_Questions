@@ -1,0 +1,187 @@
+### Multi-Choice, True, False Questions
+
+---
+
+1. **What is the result of `vector[1:4]` for `vector = [10, 20, 30, 40, 50]`?**
+   - A. `[20, 30, 40]`
+   - B. `[10, 20, 30]`
+   - C. `[30, 40]`
+   - D. `[20, 30]`
+   - **Answer**: A
+
+---
+
+2. **Which of the following methods adds an element at the end of a list?**
+   - A. `append()`
+   - B. `insert()`
+   - C. `extend()`
+   - D. `add()`
+   - **Answer**: A
+
+---
+
+3. **True or False: The `del` statement can be used to delete a specific element from a list.**
+   - A. True
+   - B. False
+   - **Answer**: A
+
+---
+
+4. **What does `sorted([3, 1, 2])` return?**
+   - A. `[1, 2, 3]`
+   - B. `[3, 2, 1]`
+   - C. `[1, 3, 2]`
+   - D. `None`
+   - **Answer**: A
+
+---
+
+5. **What is the output of the following code?**
+   ```python
+   vector = [1, 2, 3]
+   vector.insert(1, 10)
+   print(vector)
+   ```
+   - A. `[1, 10, 2, 3]`
+   - B. `[1, 2, 10, 3]`
+   - C. `[10, 1, 2, 3]`
+   - D. `Error`
+   - **Answer**: A
+
+---
+
+6. **True or False: List comprehensions allow for more concise code when constructing lists.**
+   - A. True
+   - B. False
+   - **Answer**: A
+
+---
+
+7. **What is the result of `len([1, 2, 3, 4])`?**
+   - A. `3`
+   - B. `4`
+   - C. `5`
+   - D. `None`
+   - **Answer**: B
+
+---
+
+8. **How would you iterate through the list `[10, 20, 30]` to print each element?**
+   - A. `for i in range(vector): print(i)`
+   - B. `for i in vector: print(i)`
+   - C. `for i in len(vector): print(i)`
+   - D. `for i in sorted(vector): print(i)`
+   - **Answer**: B
+
+---
+
+9. **Which of the following operators can be used to check if an element
+
+ exists in a list?**
+   - A. `in`
+   - B. `not in`
+   - C. `is`
+   - D. `==`
+   - **Answer**: A
+
+---
+
+10. **What is the correct way to copy a list in Python?**
+    - A. `copy_vector = vector`
+    - B. `copy_vector = vector[:]`
+    - C. `copy_vector = vector.copy()`
+    - D. Both B and C
+    - **Answer**: D
+
+---
+
+11. **True or False: Slicing can only be done with numerical lists.**
+    - A. True
+    - B. False
+    - **Answer**: B
+
+---
+
+12. **What does `vector.append(5)` do to the list `vector = [1, 2, 3, 4]`?**
+    - A. Adds `5` at index `0`
+    - B. Adds `5` at the end
+    - C. Replaces `4` with `5`
+    - D. Removes the last element
+    - **Answer**: B
+
+---
+
+13. **True or False: The `in` operator checks if an element exists in a list.**
+    - A. True
+    - B. False
+    - **Answer**: A
+
+---
+
+14. **What will the following code print?**
+    ```python
+    vector = [1, 2, 3, 4]
+    del vector[2]
+    print(vector)
+    ```
+    - A. `[1, 3, 4]`
+    - B. `[1, 2, 4]`
+    - C. `[2, 3, 4]`
+    - D. `Error`
+    - **Answer**: B
+
+---
+
+15. **Which method is used to find the position of the first occurrence of an element in a list?**
+    - A. `index()`
+    - B. `find()`
+    - C. `position()`
+    - D. `search()`
+    - **Answer**: A
+
+---
+
+16. **True or False: The `len()` function can be used with strings and lists.**
+    - A. True
+    - B. False
+    - **Answer**: A
+
+---
+
+17. **What will this code return?**
+    ```python
+    vector = [1, 2, 3]
+    print(4 in vector)
+    ```
+    - A. True
+    - B. False
+    - C. Error
+    - D. None
+    - **Answer**: B
+
+---
+
+18. **What does the list comprehension `[x * 2 for x in range(3)]` return?**
+    - A. `[0, 1, 2]`
+    - B. `[2, 4, 6]`
+    - C. `[0, 2, 4]`
+    - D. `[2, 3, 6]`
+    - **Answer**: C
+
+---
+
+19. **Which of the following is not a list method?**
+    - A. `insert()`
+    - B. `delete()`
+    - C. `pop()`
+    - D. `sort()`
+    - **Answer**: B
+
+---
+
+20. **True or False: Multi-dimensional lists can be created by nesting lists within lists.**
+    - A. True
+    - B. False
+    - **Answer**: A
+
+---

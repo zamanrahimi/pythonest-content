@@ -1,0 +1,194 @@
+# Multi-Choice, True, False Questions
+
+---
+
+1. **What is the output of `tuple_example[1]` for `tuple_example = (10, 20, 30)`?**
+   - A. `20`
+   - B. `30`
+   - C. `10`
+   - D. `None`
+   - **Answer**: A
+
+---
+
+2. **Which of the following statements about tuples is true?**
+   - A. Tuples can be changed after creation.
+   - B. Tuples are created using square brackets.
+   - C. Tuples can contain lists as elements.
+   - D. Tuples do not support indexing.
+   - **Answer**: C
+
+---
+
+3. **True or False: The first element of a tuple can be accessed using index 0.**
+   - A. True
+   - B. False
+   - **Answer**: A
+
+---
+
+4. **What will the output of the following code be?**
+   ```python
+   my_tuple = (1, 2, 3)
+   print(my_tuple[0:2])
+   ```
+   - A. `(1, 2)`
+   - B. `[1, 2]`
+   - C. `1, 2`
+   - D. `None`
+   - **Answer**: A
+
+---
+
+5. **Which of the following is a key difference between lists and tuples?**
+   - A. Both can contain the same types of elements.
+   - B. Tuples are mutable; lists are immutable.
+   - C. Lists are defined using parentheses; tuples with brackets.
+   - D. Tuples are immutable; lists are mutable.
+   - **Answer**: D
+
+---
+
+6. **True or False: You can nest tuples inside lists.**
+   - A. True
+   - B. False
+   - **Answer**: A
+
+---
+
+7. **What is the result of the following code?**
+   ```python
+   my_tuple = (1, 2, 3)
+   my_tuple[1] = 5
+   ```
+   - A. `(1, 5, 3)`
+   - B. `TypeError`
+   - C. `(1, 2, 5)`
+   - D. `None`
+   - **Answer**: B
+
+---
+
+8. **Which of the following can be an element of a tuple?**
+   - A. A list
+   - B. Another tuple
+   - C. A string
+   - D. All of the above
+   - **Answer**: D
+
+---
+
+9. **What will the output be for the following code?**
+   ```python
+   my_tuple = (1, [2, 3])
+   my_tuple[1].append(4)
+   print(my_tuple)
+   ```
+   - A. `(1, [2, 3, 4])`
+   - B. `(1, 2, 3, 4)`
+   - C. `TypeError`
+   - D. `(1, 4)`
+   - **Answer**: A
+
+---
+
+10. **Which method is used to find the length of a tuple?**
+    - A. `length()`
+    - B. `count()`
+    - C. `len()`
+    - D. `size()`
+    - **Answer**: C
+
+---
+
+11. **True or False: Tuples can be unpacked into variables.**
+    - A. True
+    - B. False
+    - **Answer**: A
+
+---
+
+12. **What will the following code print?**
+    ```python
+    my_list = [(1, 2), (3, 4)]
+    print(my_list[1][0])
+    ```
+    - A. `3`
+    - B. `4`
+    - C. `1`
+    - D. `2`
+    - **Answer**: A
+
+---
+
+13. **True or False: You can change an element of a tuple after it is created.**
+    - A. True
+    - B. False
+    - **Answer**: B
+
+---
+
+14. **Which of the following statements is true about tuples?**
+    - A. Tuples are created using square brackets.
+    - B. Tuples can store different data types.
+    - C. Tuples support item assignment.
+    - D. Tuples can only store integers.
+    - **Answer**: B
+
+---
+
+15. **What is the output of `print((1, 2, 3) + (4, 5))`?**
+    - A. `(1, 2, 3, 4, 5)`
+    - B. `TypeError`
+    - C. `1, 2, 3, 4, 5`
+    - D. `(1, 2, 3)(4, 5)`
+    - **Answer**: A
+
+---
+
+16. **Which operation is not allowed with tuples?**
+    - A. Slicing
+    - B. Concatenation
+    - C. Indexing
+    - D. Appending
+    - **Answer**: D
+
+---
+
+17. **True or False: The elements of a tuple can be accessed using a negative index.**
+    - A. True
+    - B. False
+    - **Answer**: A
+
+---
+
+18. **What will be the result of the following code?**
+    ```python
+    my_tuple = (1, 2, 3)
+    print(my_tuple * 2)
+    ```
+    - A. `(1, 2, 3, 1, 2, 3)`
+    - B. `(1, 2, 3, 4, 5)`
+    - C. `TypeError`
+    - D. `None`
+    - **Answer**: A
+
+---
+
+19. **Which of the following can be used to create a tuple with a single element?**
+    - A. `(1)`
+    - B. `(1,)`
+    - C. `1,`
+    - D. Both B and C
+    -
+
+ **Answer**: D
+
+---
+
+20. **True or False: A tuple can contain another tuple as an element.**
+    - A. True
+    - B. False
+    - **Answer**: A
+
+---
